@@ -1,0 +1,38 @@
+# --- Qt / C++ ---
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.app
+*.user
+*.pro.user
+*.autosave
+
+# Build folders
+build-*/
+debug/
+release/
+
+# CMake (если вдруг используешь)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt Creator
+*.user
+*.qmlproject.user
+*.qbs.user
+*.pro.user.*
+*.pro.user
+*.log
+*.pyc
+
+# Backup files
+*~
+*.swp
+*.bak
+*.tmp
